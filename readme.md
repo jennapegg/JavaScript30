@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+Jenna Pegg's solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
@@ -51,11 +51,3 @@ Here are some links of people who have done the tutorials, but in a different la
 * [Akinjide Bankole](https://github.com/akinjide/JS30days) used Node.js with [Jade](http://jadelang.net) to solve the exercises
 * [Adrien Poly](https://github.com/adrienpoly/javascript30-stimulus) a modest attempt to convert Drum Kit, Video Player, Local Tapas, TypeHead to [Stimulus JS](https://stimulusjs.org/) framework in a Rails App.
 * [Bogdan Lazar](https://github.com/tricinel/TypeScript30) all the JavaScript 30 written in [TypeScript](https://www.typescriptlang.org/)
-
-## A note on Pull Requests
-
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
-
-The starter files + solutions will be updated if/when the videos are updated.
-
-Thanks!
